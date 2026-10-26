@@ -13,7 +13,7 @@ Este repositório contém um script de automação para instalar o **THC-Hydra**
 
 Desenvolvido por **@cyber**
 
-Para suporte, dúvidas ou atualizações, entre em contato via Telegram:
+Para suporte, dúvidas ou atualizações,ou doações/donations entre em contato via Telegram:
 https://t.me/cybe4
 
 ## Como Instalar
